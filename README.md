@@ -5,9 +5,13 @@ A small Applescript app that changes your Slack user status according to what yo
 
 ![img](images/1.png)
 
+## Download
+
+Check the [releases](https://github.com/Zi0P4tch0/Slackify/releases) page.
+
 ## Requirements
 
-- macoS 10.10+
+- macOS 10.10+
 - Spotify
 - A Slack legacy token
   - The app will prompt you to get one, otherwise you can generate it here: https://api.slack.com/custom-integrations/legacy-tokens
