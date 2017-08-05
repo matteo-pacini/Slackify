@@ -12,7 +12,7 @@ Check the [releases](https://github.com/Zi0P4tch0/Slackify/releases) page.
 ## Requirements
 
 - macOS 10.10+
-- Spotify
+- iTunes/Spotify
 - A Slack legacy token
   - The app will prompt you to get one, otherwise you can generate it here: https://api.slack.com/custom-integrations/legacy-tokens
 
