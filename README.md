@@ -1,7 +1,7 @@
 
 # Slackify
 
-A small Applescript app that changes your Slack user status according to what you're listening on Spotify.
+A small Applescript app that changes your Slack user status according to what you're listening on Spotify/iTunes.
 
 ![img](images/1.png)
 
